@@ -1,6 +1,6 @@
 # 🎨 AI Prompt Metadata Viewer (Pure x86-64 Assembly)
 
-A lightweight, high-performance native Windows GUI tool for viewing, copying, and saving AI generation parameters embedded within PNG image metadata. Written entirely in raw **x86-64 Assembly (SASM)** with zero external runtime dependencies.
+A lightweight, high-performance native Windows GUI tool for viewing, copying, and saving AI generation parameters embedded within PNG image metadata. Written entirely in raw **x86-64 Assembly (SASM)** with zero external runtime dependencies.  AI was used in the process of creating this.
 
 ---
 
